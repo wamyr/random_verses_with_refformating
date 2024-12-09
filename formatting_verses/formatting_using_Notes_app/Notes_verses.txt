@@ -1,0 +1,479 @@
+<div>Versets</div>
+<div><br></div>
+<div>   • “Je te loue de ce que je suis une créature si merveilleuse. […] ”</div>
+<div>      — Psaumes 139:14 [S21]</div>
+<div><br></div>
+<div>   • “Je n'étais encore qu'une masse informe, mais tes yeux me voyaient, et sur ton livre étaient inscrits tous les jours qui m'étaient destinés avant qu'un seul d'entre eux n'existe. ”</div>
+<div>      — Psaumes 139:16 [S21]</div>
+<div><br></div>
+<div>   • “En effet, moi, je connais les projets que je forme pour vous, déclare l'Eternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance.”</div>
+<div>      — Jérémie 29:11 [S21]</div>
+<div><br></div>
+<div>   • “De loin, l'Eternel s'est montré à moi: «Je t'aime d'un amour éternel, c'est pourquoi je te conserve ma bonté.»”</div>
+<div>      — Jérémie 31:3 [S21]</div>
+<div><br></div>
+<div>   • “Voici, je vous ai donné le pouvoir de marcher sur les serpents et les scorpions et sur toute la puissance de l'ennemi, et rien ne pourra vous nuire.”</div>
+<div>      — Luc 10:19 [S21]</div>
+<div><br></div>
+<div>   • “En effet, ce n'est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d'amour et de sagesse.”</div>
+<div>      — 2 Timothée 1:7 [S21]</div>
+<div><br></div>
+<div>   • “En effet, Dieu a tant aimé le monde qu'il a donné son Fils unique afin que quiconque croit en lui ne périsse pas mais ait la vie éternelle.”</div>
+<div>      — Jean 3:16 [S21]</div>
+<div><br></div>
+<div>   • “Dieu, en effet, n'a pas envoyé son Fils dans le monde pour juger le monde, mais pour que le monde soit sauvé par lui. Celui qui croit en lui n'est pas jugé, mais celui qui ne croit pas est déjà jugé parce qu'il n'a pas cru au nom du Fils unique de Dieu.”</div>
+<div>      — Jean 3:17-18 [S21]</div>
+<div><br></div>
+<div>   • “Lui qui n'a pas commis de péché et  dans la bouche duquel on n'a pas trouvé de tromperie, lui qui insulté ne rendait pas l'insulte, maltraité ne faisait pas de menaces mais s'en remettait à celui qui juge justement, lui qui a lui-même porté nos péchés dans son corps à la croix afin que, libérés du péché, nous vivions pour la justice. C'est par ses blessures que vous avez été guéris. Vous étiez en effet comme des brebis égarées, mais maintenant vous êtes retournés vers le berger et le protecteur de votre âme.”</div>
+<div>      — 1 Pierre 2:22-25 [S21]</div>
+<div><br></div>
+<div>   • “Faites donc mourir en vous ce qui est terrestre: l'immoralité sexuelle, l'impureté, les passions, les mauvais désirs et la soif de posséder, qui est une idolâtrie.”</div>
+<div>      — Colossiens 3:5 [S21]</div>
+<div><br></div>
+<div>   • “Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles.”</div>
+<div>      — 2 Corinthiens 5:17 [S21]</div>
+<div><br></div>
+<div>   • “Si donc vous êtes ressuscités avec Christ, recherchez les choses d'en haut, où Christ est assis à la droite de Dieu. Attachez-vous aux réalités d'en haut, et non à celles qui sont sur la terre. En effet, vous avez connu la mort et votre vie est cachée avec Christ en Dieu.”</div>
+<div>      — Colossiens 3:1-3 [S21]</div>
+<div><br></div>
+<div>   • “Mais maintenant, renoncez à tout cela, à la colère, à la fureur, à la méchanceté, à la calomnie, aux grossièretés qui pourraient sortir de votre bouche. Ne vous mentez pas les uns aux autres, car vous vous êtes dépouillés du vieil homme et de ses manières d'agir, vous avez revêtu l'homme nouveau qui se renouvelle pour parvenir à la vraie connaissance, conformément à l'image de celui qui l'a créé.”</div>
+<div>      — Colossiens 3:8-10 [S21]</div>
+<div><br></div>
+<div>   • “Qu'aucune parole malsaine ne sorte de votre bouche, mais seulement de bonnes paroles qui, en fonction des besoins, servent à l'édification et transmettent une grâce à ceux qui les entendent. N'attristez pas le Saint-Esprit de Dieu, par lequel vous avez été marqués d'une empreinte pour le jour de la libération.”</div>
+<div>      — Ephésiens 4:29-30 [S21]</div>
+<div><br></div>
+<div>   • “Que toute amertume, toute fureur, toute colère, tout éclat de voix, toute calomnie et toute forme de méchanceté disparaissent du milieu de vous. Soyez bons et pleins de compassion les uns envers les autres; pardonnez-vous réciproquement comme Dieu nous a pardonné en Christ.”</div>
+<div>      — Ephésiens 4:31-32 [S21]</div>
+<div><br></div>
+<div>   • “Que l'immoralité sexuelle, l'impureté sous toutes ses formes ou la soif de posséder ne soient même pas mentionnées parmi vous, comme il convient à des saints. Qu'on n'entende pas de paroles grossières, de propos stupides ou équivoques - c'est inconvenant - mais plutôt des paroles de reconnaissance.”</div>
+<div>      — Ephésiens 5:3-4 [S21]</div>
+<div><br></div>
+<div>   • “Approchons-nous donc avec assurance du trône de la grâce afin d'obtenir compassion et de trouver grâce pour être secourus au moment opportun.”</div>
+<div>      — Hébreux 4:16 [S21]</div>
+<div><br></div>
+<div>   • “Vous, petits enfants, vous êtes de Dieu et vous avez vaincu ces prétendus prophètes parce que celui qui est en vous est plus grand que celui qui est dans le monde.”</div>
+<div>      — 1 Jean 4:4 [S21]</div>
+<div><br></div>
+<div>   • “Celui qui moissonne reçoit un salaire et amasse du fruit pour la vie éternelle, afin que celui qui sème et celui qui moissonne se réjouissent ensemble.”</div>
+<div>      — Jean 4:36 [S21]</div>
+<div><br></div>
+<div>   • “N'aie pas peur, car je suis moi-même avec toi. Ne promène pas des regards inquiets, car je suis ton Dieu. Je te fortifie, je viens à ton secours, je te soutiens par ma main droite, la main de la justice.”</div>
+<div>      — Esaïe 41:10 [S21]</div>
+<div><br></div>
+<div>   • “Venez à moi, vous tous qui êtes fatigués et courbés sous un fardeau, et je vous donnerai du repos. Acceptez mes exigences et laissez-vous instruire par moi, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. En effet, mes exigences sont bonnes et mon fardeau léger.»”</div>
+<div>      — Matthieu 11:28-30 [S21]</div>
+<div><br></div>
+<div>   • “Jésus lui dit: «Ne t'ai-je pas dit que si tu crois, tu verras la gloire de Dieu?»”</div>
+<div>      — Jean 11:40 [S21]</div>
+<div><br></div>
+<div>   • “Il donne de la force à celui qui est fatigué et il multiplie les ressources de celui qui est à bout. Les adolescents se fatiguent et s'épuisent, les jeunes gens se mettent à trébucher, mais ceux qui comptent sur l'Eternel renouvellent leur force. Ils prennent leur envol comme les aigles. Ils courent sans s'épuiser, ils marchent sans se fatiguer.”</div>
+<div>      — Esaïe 40:29-31 [S21]</div>
+<div><br></div>
+<div>   • “Si tu te couches, tu n'auras rien à redouter et, quand tu seras couché, ton sommeil sera doux. N'aie pas peur d'une cause de terreur soudaine ni d'une attaque de la part des méchants, car l'Eternel sera ton assurance et il préservera ton pied de tout piège.”</div>
+<div>      — Proverbes 3:24-26 [S21]</div>
+<div><br></div>
+<div>   • “Il fera appel à moi et je lui répondrai. Je serai avec lui dans la détresse, je le délivrerai et je l'honorerai.”</div>
+<div>      — Psaumes 91:15 [S21]</div>
+<div><br></div>
+<div>   • “N'aimez pas le monde ni ce qui est dans le monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui. En effet, tout ce qui est dans le monde - la convoitise qui est dans l'homme, la convoitise des yeux et l'orgueil dû aux richesses - vient non du Père, mais du monde. Or le monde passe, sa convoitise aussi, mais celui qui fait la volonté de Dieu demeure éternellement.”</div>
+<div>      — 1 Jean 2:15-17 [S21]</div>
+<div><br></div>
+<div>   • “il a effacé l'acte rédigé contre nous qui nous condamnait par ses prescriptions, et il l'a annulé en le clouant à la croix.”</div>
+<div>      — Colossiens 2:14 [S21]</div>
+<div><br></div>
+<div>   • “En vérité, en vérité, je vous le dis, celui qui écoute ma parole et qui croit à celui qui m'a envoyé a la vie éternelle; il ne vient pas en jugement, mais il est passé de la mort à la vie.”</div>
+<div>      — Jean 5:24 [S21]</div>
+<div><br></div>
+<div>   • “Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ, [qui ne vivent pas conformément à leur nature propre mais conformément à l'Esprit].”</div>
+<div>      — Romains 8:1 [S21]</div>
+<div><br></div>
+<div>   • “C'est que l'amour de Christ nous presse, parce que nous sommes convaincus que si un seul est mort pour tous, tous donc sont morts. Et s'il est mort pour tous, c'était afin que ceux qui vivent ne vivent plus pour eux-mêmes, mais pour celui qui est mort et ressuscité pour eux.”</div>
+<div>      — 2 Corinthiens 5:14-15 [S21]</div>
+<div><br></div>
+<div>   • “L'Eternel est près de ceux qui ont le cœur brisé, et il sauve ceux dont l'esprit est abattu. Beaucoup de malheurs atteignent le juste, mais l'Eternel l'en délivre toujours: ”</div>
+<div>      — Psaumes 34:19-20 [S21]</div>
+<div><br></div>
+<div>   • “Tu mets dans mon cœur plus de joie qu'ils n'en éprouvent quand abondent leur blé, leur vin [et leur huile].”</div>
+<div>      — Psaumes 4:8 [S21]</div>
+<div><br></div>
+<div>   • “Mon âme soupire et même languit après les parvis de l'Eternel. Tout mon être pousse des cris de joie vers le Dieu vivant.”</div>
+<div>      — Psaumes 84:3 [S21]</div>
+<div><br></div>
+<div>   • “Nous savons que, si quelqu'un est né de Dieu, il ne pèche pas. Au contraire, celui qui est né de Dieu se garde lui-même et le mauvais ne le touche pas.”</div>
+<div>      — 1 Jean 5:18 [S21]</div>
+<div><br></div>
+<div>   • “Je me couche et aussitôt je m'endors en paix, car c'est toi seul, Eternel, qui me donnes la sécurité dans ma demeure.”</div>
+<div>      — Psaumes 4:9 [S21]</div>
+<div><br></div>
+<div>   • “Plus d'ennemis! Des ruines éternelles! Tu as détruit des villes, et leur souvenir est perdu.”</div>
+<div>      — Psaumes 9:7 [S21]</div>
+<div><br></div>
+<div>   • “Celui qui pèche, c'est celui qui mourra. Le fils ne supportera pas les conséquences de la faute commise par son père, et le père ne supportera pas les conséquences de la faute commise par son fils. Le juste sera préservé à cause de sa justice, et le méchant sera condamné à cause de sa méchanceté.”</div>
+<div>      — Ezéchiel 18:20 [S21]</div>
+<div><br></div>
+<div>   • “Est-ce que je prends plaisir à voir le méchant mourir? déclare le Seigneur, l'Eternel. N'est-ce pas plutôt à le voir changer de conduite et vivre?”</div>
+<div>      — Ezéchiel 18:23 [S21]</div>
+<div><br></div>
+<div>   • “Si le juste renonce à sa justice et se met à commettre l'injustice, s'il imite toutes les pratiques abominables du méchant, vivra-t-il? Tous ses actes de justice seront oubliés parce qu'il s'est livré à l'infidélité et au péché. A cause de cela, il mourra.”</div>
+<div>      — Ezéchiel 18:24 [S21]</div>
+<div><br></div>
+<div>   • “Vous dites: La voie du Seigneur n'est pas droite. Écoutez donc, maison d'Israël! Est-ce ma voie qui n'est pas droite? Ne sont-ce pas plutôt vos voies qui ne sont pas droites?”</div>
+<div>      — zékiel 18:25 [LSG]</div>
+<div><br></div>
+<div>   • “Ne faites rien par esprit de rivalité ou par désir d'une gloire sans valeur, mais avec humilité considérez les autres comme supérieurs à vous-mêmes. Que chacun de vous, au lieu de regarder à ses propres intérêts, regarde aussi à ceux des autres.”</div>
+<div>      — Philippiens 2:3-4 [S21]</div>
+<div><br></div>
+<div>   • “Celui qui cache ses transgressions ne réussira pas, mais on aura compassion de celui qui les reconnaît et les abandonne.”</div>
+<div>      — Proverbes 28:13 [S21]</div>
+<div><br></div>
+<div>   • “Sa divine puissance nous a donné tout ce qui est nécessaire à la vie et à la piété en nous faisant connaître celui qui nous a appelés par sa [propre] gloire et par sa force.”</div>
+<div>      — 2 Pierre 1:3 [S21]</div>
+<div><br></div>
+<div>   • “En effet, le message de la croix est une folie pour ceux qui périssent, mais pour nous qui sommes sauvés, il est la puissance de Dieu.”</div>
+<div>      — 1 Corinthiens 1:18 [S21]</div>
+<div><br></div>
+<div>   • “Oui, tu es venu à lui, chargé des bénédictions de ta grâce, tu as mis sur sa tête une couronne d'or pur.”</div>
+<div>      — Psaumes 21:4 [S21]</div>
+<div><br></div>
+<div>   • “De fait, ce n'est pas de bon cœur qu'il humilie, qu'il cause du chagrin aux hommes.”</div>
+<div>      — Lamentations 3:33 [S21]</div>
+<div><br></div>
+<div>   • “[…] Que chacun se plaigne de ses propres péchés!”</div>
+<div>      — Lamentations 3:39 [S21]</div>
+<div><br></div>
+<div>   • “Ils veulent être des professeurs de la loi, mais ils ne comprennent rien à ce qu'ils disent ni à ce qu'ils affirment avec assurance.”</div>
+<div>      — 1 Timothée 1:7 [S21]</div>
+<div><br></div>
+<div>   • “Brandis la lance et le javelot contre mes persécuteurs, dis à mon âme: «Je suis ton salut!»”</div>
+<div>      — Psaumes 35:3 [S21]</div>
+<div><br></div>
+<div>   • “Je ne dissimule pas ta justice dans mon cœur, je proclame ta vérité et ton salut; je ne cache pas ta bonté et ta fidélité dans la grande assemblée.”</div>
+<div>      — Psaumes 40:11 [S21]</div>
+<div><br></div>
+<div>   • “Toi, Eternel, tu ne me refuseras pas tes compassions; ta bonté et ta fidélité me garderont toujours.”</div>
+<div>      — Psaumes 40:12 [S21]</div>
+<div><br></div>
+<div>   • “Je dis: «Eternel, aie pitié de moi, guéris mon âme, car j'ai péché contre toi.» Mes ennemis disent méchamment de moi: «Quand mourra-t-il? Quand s'éteindra son nom?» Si quelqu'un vient me voir, il adopte un langage faux; il récolte des sujets de médire, puis il s'en va et en parle à l'extérieur. Tous mes ennemis chuchotent entre eux contre moi, ils méditent sur mon malheur: «Il est gravement atteint. Le voilà couché, il ne se relèvera pas.» Même celui avec qui j'étais en paix, en qui j'avais confiance et *qui mangeait mon pain, lève le talon contre moi. Mais toi, Eternel, aie pitié de moi et relève-moi, et je leur rendrai ce qu'ils méritent. Je saurai que tu m'aimes, si mon ennemi ne triomphe pas de moi. Tu m'as soutenu à cause de mon intégrité, et tu m'établis pour toujours dans ta présence. Béni soit l'Eternel, le Dieu d'Israël, d'éternité en éternité. Amen! Amen!”</div>
+<div>      — Psaumes 41:5-14 [S21]</div>
+<div><br></div>
+<div>   • “En effet, ce n'est pas par leur épée qu'ils se sont emparés du pays, ce n'est pas leur bras qui les a sauvés, mais c'est ta main droite, c'est ton bras, c'est la lumière de ton visage, parce que tu les aimais.”</div>
+<div>      — Psaumes 44:4 [S21]</div>
+<div><br></div>
+<div>   • “[…] Je me confie en lui.”</div>
+<div>      — Esaïe 8:17 [S21]</div>
+<div><br></div>
+<div>   • “Mais après que je les aurai arrachés, J'aurai de nouveau compassion d'eux, Et je les ramènerai chacun dans son héritage, Chacun dans son pays. ”</div>
+<div>      — Jérémie 12:15 [LSG]</div>
+<div><br></div>
+<div>   • “O Dieu, sauve-moi par ton nom et rends-moi justice par ta puissance! O Dieu, écoute ma prière, prête l'oreille aux paroles de ma bouche,”</div>
+<div>      — Psaumes 54:3-4 [S21]</div>
+<div><br></div>
+<div>   • “Mais Dieu est mon secours, le Seigneur est le soutien de ma vie.”</div>
+<div>      — Psaumes 54:6 [S21]</div>
+<div><br></div>
+<div>   • “Ceux qui commettent l'injustice n'ont-ils aucune connaissance? Ils dévorent mon peuple, ils le prennent pour nourriture, ils ne font pas appel à Dieu.”</div>
+<div>      — Psaumes 53:5 [S21]</div>
+<div><br></div>
+<div>   • “Tous se sont détournés, ensemble ils se sont pervertis; il n'y en a aucun qui fasse le bien, pas même un seul.”</div>
+<div>      — Psaumes 53:4 [S21]</div>
+<div><br></div>
+<div>   • “Oui, depuis ma naissance, je suis coupable; quand ma mère m'a conçu, j'étais déjà marqué par le péché.”</div>
+<div>      — Psaumes 51:7 [S21]</div>
+<div><br></div>
+<div>   • “O Dieu, crée en moi un cœur pur, renouvelle en moi un esprit bien disposé!”</div>
+<div>      — Psaumes 51:12 [S21]</div>
+<div><br></div>
+<div>   • “Celui qui offre en sacrifice sa reconnaissance m'honore, et à celui qui veille sur sa conduite je ferai voir le salut de Dieu.»”</div>
+<div>      — Psaumes 50:23 [S21]</div>
+<div><br></div>
+<div>   • “O Dieu, fais-moi grâce conformément à ta bonté! Conformément à ta grande compassion, efface mes transgressions! Lave-moi complètement de ma faute et purifie-moi de mon péché, car je reconnais mes transgressions et mon péché est constamment devant moi.”</div>
+<div>      — Psaumes 51:3-5 [S21]</div>
+<div><br></div>
+<div>   • “Ne me rejette pas loin de toi, ne me retire pas ton Esprit saint!”</div>
+<div>      — Psaumes 51:13 [S21]</div>
+<div><br></div>
+<div>   • “Rends-moi la joie de ton salut, et qu'un esprit de bonne volonté me soutienne!”</div>
+<div>      — Psaumes 51:14 [S21]</div>
+<div><br></div>
+<div>   • “J'enseignerai tes voies à ceux qui les transgressent et les pécheurs reviendront à toi.”</div>
+<div>      — Psaumes 51:15 [S21]</div>
+<div><br></div>
+<div>   • “O Dieu, Dieu de mon salut, délivre-moi du sang versé, et ma langue célébrera ta justice.”</div>
+<div>      — Psaumes 51:16 [S21]</div>
+<div><br></div>
+<div>   • “Les sacrifices agréables à Dieu, c'est un esprit brisé. O Dieu, tu ne dédaignes pas un cœur brisé et humilié.”</div>
+<div>      — Psaumes 51:19 [S21]</div>
+<div><br></div>
+<div>   • “Je t'aime, Eternel, ma force,”</div>
+<div>      — Psaumes 18:2 [S21]</div>
+<div><br></div>
+<div>   • “Eternel, mon rocher, ma forteresse, mon libérateur, mon Dieu, mon rocher où je trouve un abri, mon bouclier, la force qui me sauve, mon rempart!”</div>
+<div>      — Psaumes 18:3 [S21]</div>
+<div><br></div>
+<div>   • “Mais Dieu m'avait mis à part dès le ventre de ma mère et m'a appelé par sa grâce. Lorsqu'il a trouvé bon de révéler son Fils en moi afin que je l'annonce parmi les non-Juifs, je n'ai consulté personne,”</div>
+<div>      — Galates 1:15-16 [S21]</div>
+<div><br></div>
+<div>   • “Je t'ai choisi du milieu de ce peuple et des non-Juifs, vers qui je t'envoie.”</div>
+<div>      — Actes des apôtres 26:17 [S21]</div>
+<div><br></div>
+<div>   • “Si j'annonce l'Evangile, il n'y a pour moi aucun sujet de fierté, car c'est une nécessité qui m'est imposée, et malheur à moi si je n'annonce pas l'Evangile! Si je le fais de bon cœur, j'en ai la récompense; mais si je le fais malgré moi, c'est une charge qui m'est confiée.”</div>
+<div>      — 1 Corinthiens 9:16-17 [S21]</div>
+<div><br></div>
+<div>   • “Je vous aspergerai d'eau pure et vous serez purifiés. Je vous purifierai de toutes vos impuretés et de toutes vos idoles. Je vous donnerai un cœur nouveau et je mettrai en vous un esprit nouveau. Je retirerai de votre corps le cœur de pierre et je vous donnerai un cœur de chair. C'est mon Esprit que je mettrai en vous. Ainsi, je vous ferai suivre mes prescriptions, garder et respecter mes règles.”</div>
+<div>      — Ezéchiel 36:25-27 [S21]</div>
+<div><br></div>
+<div>   • “Mais voici l'alliance que je ferai avec la communauté d'Israël après ces jours-là, déclare l'Eternel: je mettrai ma loi à l'intérieur d'eux, je l'écrirai dans leur cœur, je serai leur Dieu et ils seront mon peuple.”</div>
+<div>      — Jérémie 31:33 [S21]</div>
+<div><br></div>
+<div>   • “Personne n'enseignera plus son prochain ni son frère en disant: «Vous devez connaître l'Eternel!» car tous me connaîtront, depuis le plus petit jusqu'au plus grand d'entre eux, déclare l'Eternel. En effet, je pardonnerai leur faute et je ne me souviendrai plus de leur péché.”</div>
+<div>      — Jérémie 31:34 [S21]</div>
+<div><br></div>
+<div>   • “car tu as délivré mon âme de la mort, tu as préservé mes pieds de la chute, afin que je marche devant toi, ô Dieu, à la lumière des vivants.”</div>
+<div>      — Psaumes 56:14 [S21]</div>
+<div><br></div>
+<div>   • “Quant à moi, je chanterai ta force, dès le matin je célébrerai ta bonté, car tu es pour moi une forteresse, un refuge quand je suis dans la détresse. Toi qui es ma force, c'est pour toi que je veux chanter, car Dieu, mon Dieu si bon, est ma forteresse.”</div>
+<div>      — Psaumes 59:17-18 [S21]</div>
+<div><br></div>
+<div>   • “Viens nous aider contre notre adversaire! Le secours de l'homme n'est qu'illusion.”</div>
+<div>      — Psaumes 60:13 [S21]</div>
+<div><br></div>
+<div>   • “Oui, tu es pour moi un refuge, une tour fortifiée, en face de l'ennemi. Je voudrais habiter éternellement dans ta tente, me réfugier sous l'abri de tes ailes. - Pause.”</div>
+<div>      — Psaumes 61:4-5 [S21]</div>
+<div><br></div>
+<div>   • “car ta bonté vaut mieux que la vie. Mes lèvres célèbrent tes louanges.”</div>
+<div>      — Psaumes 63:4 [S21]</div>
+<div><br></div>
+<div>   • “Tu couronnes l'année de tes biens, et ton passage apporte l'abondance;”</div>
+<div>      — Psaumes 65:12 [S21]</div>
+<div><br></div>
+<div>   • “Le père des orphelins, le défenseur des veuves, c'est Dieu dans sa sainte demeure.”</div>
+<div>      — Psaumes 68:6 [S21]</div>
+<div><br></div>
+<div>   • “Que ceux qui espèrent en toi ne soient pas honteux à cause de moi, Seigneur, Eternel, maître de l'univers! Que ceux qui te cherchent ne rougissent pas à cause de moi, Dieu d'Israël”</div>
+<div>      — Psaumes 69:7 [S21]</div>
+<div><br></div>
+<div>   • “En effet, la grâce de Dieu, source de salut pour tous les hommes, a été révélée. Elle nous enseigne à renoncer à un mode de vie impie et aux convoitises de ce monde et à vivre dans le temps présent conformément à la sagesse, la justice et la piété en attendant notre bienheureuse espérance, la manifestation de la gloire de notre grand Dieu et Sauveur Jésus-Christ. Il s'est donné lui-même pour nous afin de nous racheter de toute faute et de se faire un peuple qui lui appartienne, purifié et zélé pour de belles œuvres. Dis ces choses, encourage et reprends avec une pleine autorité. Que personne ne te méprise.”</div>
+<div>      — Tite 2:11-15 [S21]</div>
+<div><br></div>
+<div>   • “A quoi bon vous frapper encore? Vous multipliez vos révoltes. La tête entière est malade et tout le cœur est souffrant. De la plante des pieds jusqu'à la tête, rien n'est en bon état: ce ne sont que blessures, contusions et plaies vives qui n'ont été ni pansées, ni bandées, ni désinfectées.”</div>
+<div>      — Esaïe 1:5-6 [S21]</div>
+<div><br></div>
+<div>   • “Si l'Eternel, le maître de l'univers, ne nous avait pas conservé un faible reste, nous serions pareils à Sodome, nous ressemblerions à Gomorrhe.”</div>
+<div>      — Esaïe 1:9 [S21]</div>
+<div><br></div>
+<div>   • “Cessez d'apporter des offrandes illusoires! J'ai horreur de l'encens, des débuts de mois, des sabbats et des convocations aux réunions, je ne supporte pas de voir l'injustice associée aux célébrations.”</div>
+<div>      — Esaïe 1:13 [S21]</div>
+<div><br></div>
+<div>   • “Jésus leur répondit: «N'est-il pas écrit dans votre loi: J'ai dit: 'Vous êtes des dieux'?”</div>
+<div>      — Jean 10:34 [S21]</div>
+<div><br></div>
+<div>   • “Il est écrit dans votre loi que le témoignage de deux personnes est vrai.”</div>
+<div>      — Jean 8:17 [S21]</div>
+<div><br></div>
+<div>   • “Je déteste vos débuts de mois et vos fêtes: c'est un fardeau qui me pèse, je suis fatigué de les supporter.”</div>
+<div>      — Esaïe 1:14 [S21]</div>
+<div><br></div>
+<div>   • “Lavez-vous, purifiez-vous, mettez un terme à la méchanceté de vos agissements, cessez de faire le mal! Apprenez à faire le bien, recherchez la justice, protégez l'opprimé, faites droit à l'orphelin, défendez la veuve! Venez et discutons! dit l'Eternel. Même si vos péchés sont couleur cramoisi, ils deviendront blancs comme la neige; même s'ils sont rouges comme la pourpre, ils deviendront clairs comme la laine.”</div>
+<div>      — Esaïe 1:16-18 [S21]</div>
+<div><br></div>
+<div>   • “Des peuples s'y rendront en foule et diront: «Venez, montons à la montagne de l'Eternel, à la maison du Dieu de Jacob! Il nous enseignera ses voies et nous marcherons dans ses sentiers.» En effet, c'est de Sion que sortira la loi, et de Jérusalem la parole de l'Eternel.”</div>
+<div>      — Esaïe 2:3 [S21]</div>
+<div><br></div>
+<div>   • “Famille de Jacob, venez et marchons à la lumière de l'Eternel!”</div>
+<div>      — Esaïe 2:5 [S21]</div>
+<div><br></div>
+<div>   • “L'être humain sera abaissé, avec son regard hautain, la grandeur des hommes devra s'incliner. L'Eternel seul sera élevé, ce jour-là.”</div>
+<div>      — Esaïe 2:11 [S21]</div>
+<div><br></div>
+<div>   • “L'Eternel dit: Les filles de Sion sont orgueilleuses et marchent le cou tendu et le regard effronté, elles vont à petits pas et font résonner les boucles qui ornent leurs pieds.”</div>
+<div>      — Esaïe 3:16 [S21]</div>
+<div><br></div>
+<div>   • “En effet, les théraphim ont des paroles vides, les devins prophétisent des faussetés, les rêves mentent et leur consolation est illusoire. C'est pourquoi ils sont errants *comme un troupeau, ils sont malheureux parce qu'il n'y a pas de berger.”</div>
+<div>      — Zacharie 10:2 [S21]</div>
+<div><br></div>
+<div>   • “J'ai examiné ensuite toutes les oppressions qui se commettent sous le soleil: les opprimés sont dans les larmes et personne ne les console! La force est du côté de leurs oppresseurs et personne ne les console!”</div>
+<div>      — Ecclésiaste 4:1 [S21]</div>
+<div><br></div>
+<div>   • “Oui, les rêves surgissent dans un flot d'occupations, et la voix de l'homme stupide dans un flot de paroles.”</div>
+<div>      — Ecclésiaste 5:2 [S21]</div>
+<div><br></div>
+<div>   • “Oui, s'il y a des absurdités dans un flot de rêves, il y en a aussi dans un flot de paroles. C'est pourquoi, crains Dieu!”</div>
+<div>      — Ecclésiaste 5:6 [S21]</div>
+<div><br></div>
+<div>   • “Mieux vaut pour toi ne pas faire de vœu plutôt que d'en faire un et de ne pas l'accomplir.”</div>
+<div>      — Ecclésiaste 5:4 [S21]</div>
+<div><br></div>
+<div>   • “En effet, nous n'avons pas de puissance contre la vérité, nous n'en avons que pour la vérité.”</div>
+<div>      — 2 Corinthiens 13:8 [S21]</div>
+<div><br></div>
+<div>   • “Comme nous n'arrivions pas à le faire changer d'avis, nous n'avons plus insisté et nous nous sommes contentés de dire : Que la volonté du Seigneur soit faite !”</div>
+<div>      — Actes 21:14 [BDS]</div>
+<div><br></div>
+<div>   • “Or, ils ont entendu dire que tu enseignes à tous les Juifs vivant parmi les non-Juifs d'abandonner la loi de Moïse; tu leur dirais de ne pas circoncire leurs enfants et de ne pas se conformer aux coutumes.”</div>
+<div>      — Actes des apôtres 21:21 [S21]</div>
+<div><br></div>
+<div>   • “Les péchés de certains hommes sont évidents avant même qu'on les juge, mais chez d'autres ils ne se découvrent que par la suite. De même, les belles œuvres sont évidentes et celles qui ne le sont pas ne peuvent rester cachées.”</div>
+<div>      — 1 Timothée 5:24-25 [S21]</div>
+<div><br></div>
+<div>   • “Le Seigneur dit une parole, et les messagères de bonnes nouvelles sont légion.”</div>
+<div>      — Psaumes 68:12 [S21]</div>
+<div><br></div>
+<div>   • “Béni soit le Seigneur chaque jour! Dieu porte nos fardeaux, il nous sauve. - Pause.”</div>
+<div>      — Psaumes 68:20 [S21]</div>
+<div><br></div>
+<div>   • “Ton Dieu ordonne que tu sois fort: fortifie, ô Dieu, ce que tu as fait pour nous!”</div>
+<div>      — Psaumes 68:29 [S21]</div>
+<div><br></div>
+<div>   • “Quand des méchants s'avancent contre moi pour faire de moi leur proie, ce sont eux, mes persécuteurs et mes ennemis, qui trébuchent et tombent.”</div>
+<div>      — Psaumes 27:2 [S21]</div>
+<div><br></div>
+<div>   • “Celui qui obéit à Dieu ne tombera jamais, on se souviendra toujours de lui.”</div>
+<div>      — Psaumes 112:6 [S21]</div>
+<div><br></div>
+<div>   • “Fortifiez-vous et prenez courage! N'ayez pas peur et ne soyez pas effrayés devant eux, car l'Eternel, ton Dieu, marchera lui-même avec toi. Il ne te délaissera pas, il ne t'abandonnera pas.»”</div>
+<div>      — Deutéronome 31:6 [S21]</div>
+<div><br></div>
+<div>   • “En effet, vos pensées ne sont pas mes pensées et mes voies ne sont pas vos voies, déclare l'Eternel. Le ciel est bien plus haut que la terre. De même, mes voies sont bien au-dessus de vos voies, et mes pensées bien au-dessus de vos pensées.”</div>
+<div>      — Esaïe 55:8-9 [S21]</div>
+<div><br></div>
+<div>   • “Si nous reconnaissons nos péchés, il est fidèle et juste pour nous les pardonner et pour nous purifier de tout mal.”</div>
+<div>      — 1 Jean 1:9 [S21]</div>
+<div><br></div>
+<div>   • “Mais, puisque Dieu nous a jugés dignes de nous confier l'Evangile, nous parlons, non dans l'idée de plaire à des hommes, mais pour plaire à Dieu qui éprouve notre cœur.”</div>
+<div>      — 1 Thessaloniciens 2:4 [S21]</div>
+<div><br></div>
+<div>   • “prêche la parole, insiste en toute occasion, qu'elle soit favorable ou non, réfute, reprends et encourage. Fais tout cela avec une pleine patience et un entier souci d'instruire.”</div>
+<div>      — 2 Timothée 4:2 [S21]</div>
+<div><br></div>
+<div>   • “Nous rejetons les actions honteuses qui se font en secret, nous ne nous conduisons pas avec ruse et nous ne falsifions pas la parole de Dieu. Au contraire, en faisant connaître clairement la vérité, nous nous recommandons à toute conscience d'homme devant Dieu.”</div>
+<div>      — 2 Corinthiens 4:2 [S21]</div>
+<div><br></div>
+<div>   • “Nous ne nous prêchons pas nous-mêmes: c'est Jésus-Christ le Seigneur que nous prêchons, et nous nous déclarons vos serviteurs à cause de Jésus. En effet, le Dieu qui a ordonné que la lumière brille du sein des ténèbres a aussi fait briller sa lumière dans notre cœur pour faire resplendir la connaissance de la gloire de Dieu dans la personne de [Jésus-]Christ.”</div>
+<div>      — 2 Corinthiens 4:5-6 [S21]</div>
+<div><br></div>
+<div>   • “Nous portons ce trésor dans des vases de terre afin que cette puissance extraordinaire soit attribuée à Dieu, et non à nous. Nous sommes pressés de toutes parts, mais non écrasés; inquiets, mais non désespérés; persécutés, mais non abandonnés; abattus, mais non anéantis. Nous portons toujours avec nous dans notre corps l'agonie du [Seigneur] Jésus afin que la vie de Jésus soit aussi manifestée dans notre corps. En effet, nous qui vivons, nous sommes sans cesse livrés à la mort à cause de Jésus afin que la vie de Jésus soit elle aussi révélée dans notre corps mortel. Ainsi la mort est à l'œuvre en nous, et la vie en vous. Et comme nous avons le même esprit de foi que celui exprimé dans cette parole de l'Ecriture: J'ai cru, c'est pourquoi j'ai parlé, nous aussi nous croyons, et c'est pour cela que nous parlons. Nous savons en effet que celui qui a ressuscité le Seigneur Jésus nous ressuscitera aussi par Jésus et nous fera paraître avec vous dans sa présence. Oui, tout cela arrive à cause de vous afin que la grâce, en se multipliant, fasse abonder la reconnaissance d'un plus grand nombre, à la gloire de Dieu.”</div>
+<div>      — 2 Corinthiens 4:7-15 [S21]</div>
+<div><br></div>
+<div>   • “L'Eternel fait grâce et il est juste, notre Dieu est rempli de compassion. L'Eternel garde ceux qui manquent d'expérience; j'étais affaibli, et il m'a sauvé. Retrouve le repos, mon âme, car l'Eternel t'a fait du bien! Oui, tu as délivré mon âme de la mort, mes yeux des larmes, mes pieds de la chute. Je marcherai devant l'Eternel au pays des vivants. *J'avais confiance, même lorsque je disais: «Je suis plongé dans le malheur!» Dans mon angoisse, je disais: «Tous les hommes sont des menteurs.»”</div>
+<div>      — Psaumes 116:5-11 [S21]</div>
+<div><br></div>
+<div>   • “En effet, nous ne falsifions pas la parole de Dieu, comme le font les autres, mais c'est avec pureté, c'est de la part de Dieu, en Christ et devant Dieu que nous parlons.”</div>
+<div>      — 2 Corinthiens 2:17 [S21]</div>
+<div><br></div>
+<div>   • “Mais voici l'alliance que je ferai avec la communauté d'Israël après ces jours-là, déclare l'Eternel: je mettrai ma loi à l'intérieur d'eux, je l'écrirai dans leur cœur, je serai leur Dieu et ils seront mon peuple. Personne n'enseignera plus son prochain ni son frère en disant: «Vous devez connaître l'Eternel!» car tous me connaîtront, depuis le plus petit jusqu'au plus grand d'entre eux, déclare l'Eternel. En effet, je pardonnerai leur faute et je ne me souviendrai plus de leur péché.”</div>
+<div>      — Jérémie 31:33-34 [S21]</div>
+<div><br></div>
+<div>   • “car il délivrera le pauvre qui crie et le malheureux que personne n'aide.”</div>
+<div>      — Psaumes 72:12 [S21]</div>
+<div><br></div>
+<div>   • “Nous savons que notre vieil homme a été crucifié avec lui afin que le corps du péché soit réduit à l'impuissance et qu'ainsi nous ne soyons plus esclaves du péché. En effet, celui qui est mort est libéré du péché. Or, si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui,”</div>
+<div>      — Romains 6:6-8 [S21]</div>
+<div><br></div>
+<div>   • “Que le péché ne règne donc plus dans votre corps mortel pour vous soumettre à lui par ses désirs. En effet, le péché n'aura pas de pouvoir sur vous, puisque vous n'êtes plus sous la loi mais sous la grâce.”</div>
+<div>      — Romains 6:12, 14 [S21]</div>
+<div><br></div>
+<div>   • “En effet, la loi de l'Esprit qui donne la vie en Jésus-Christ m'a libéré de la loi du péché et de la mort,”</div>
+<div>      — Romains 8:2 [S21]</div>
+<div><br></div>
+<div>   • “car ce qui était impossible à la loi parce que la nature humaine la rendait impuissante, Dieu l'a fait: il a condamné le péché dans la nature humaine en envoyant à cause du péché son propre Fils dans une nature semblable à celle de l'homme pécheur.”</div>
+<div>      — Romains 8:3 [S21]</div>
+<div><br></div>
+<div>   • “En effet, ceux qui se conforment à leur nature propre se préoccupent des réalités de la nature humaine, tandis que ceux qui se conforment à l'Esprit sont préoccupés par ce qui est de l'Esprit.”</div>
+<div>      — Romains 8:5 [S21]</div>
+<div><br></div>
+<div>   • “De fait, la nature humaine tend vers la mort, tandis que l'Esprit tend vers la vie et la paix.”</div>
+<div>      — Romains 8:6 [S21]</div>
+<div><br></div>
+<div>   • “En effet, la nature humaine tend à la révolte contre Dieu, parce qu'elle ne se soumet pas à la loi de Dieu et qu'elle n'en est même pas capable.”</div>
+<div>      — Romains 8:7 [S21]</div>
+<div><br></div>
+<div>   • “Or, ceux qui sont animés par leur nature propre ne peuvent pas plaire à Dieu.”</div>
+<div>      — Romains 8:8 [S21]</div>
+<div><br></div>
+<div>   • “Quant à vous, vous n'êtes pas animés par votre nature propre mais par l'Esprit, si du moins l'Esprit de Dieu habite en vous. Si quelqu'un n'a pas l'Esprit de Christ, il ne lui appartient pas.”</div>
+<div>      — Romains 8:9 [S21]</div>
+<div><br></div>
+<div>   • “Et si Christ est en vous, votre corps, il est vrai, est mort à cause du péché, mais votre esprit est vie à cause de la justice.”</div>
+<div>      — Romains 8:10 [S21]</div>
+<div><br></div>
+<div>   • “Et si l'Esprit de celui qui a ressuscité Jésus habite en vous, celui qui a ressuscité Christ rendra aussi la vie à votre corps mortel par son Esprit qui habite en vous.”</div>
+<div>      — Romains 8:11 [S21]</div>
+<div><br></div>
+<div>   • “Si vous vivez en vous conformant à votre nature propre, vous allez mourir, mais si par l'Esprit vous faites mourir les manières d'agir du corps, vous vivrez.”</div>
+<div>      — Romains 8:13 [S21]</div>
+<div><br></div>
+<div>   • “En effet, tous ceux qui sont conduits par l'Esprit de Dieu sont fils de Dieu.”</div>
+<div>      — Romains 8:14 [S21]</div>
+<div><br></div>
+<div>   • “J'ai été crucifié avec Christ; ce n'est plus moi qui vis, c'est Christ qui vit en moi; et ce que je vis maintenant dans mon corps, je le vis dans la foi au Fils de Dieu qui m'a aimé et qui s'est donné lui-même pour moi.”</div>
+<div>      — Galates 2:20 [S21]</div>
+<div><br></div>
+<div>   • “Et vous n'avez pas reçu un esprit d'esclavage pour être encore dans la crainte, mais vous avez reçu un Esprit d'adoption, par lequel nous crions: «Abba! Père!» L'Esprit lui-même rend témoignage à notre esprit que nous sommes enfants de Dieu.”</div>
+<div>      — Romains 8:15-16 [S21]</div>
+<div><br></div>
+<div>   • “Or, si nous sommes enfants, nous sommes aussi héritiers: héritiers de Dieu et cohéritiers de Christ, si toutefois nous souffrons avec lui afin de prendre aussi part à sa gloire.”</div>
+<div>      — Romains 8:17 [S21]</div>
+<div><br></div>
+<div>   • “J'estime que les souffrances du moment présent ne sont pas dignes d'être comparées à la gloire qui va être révélée pour nous.”</div>
+<div>      — Romains 8:18 [S21]</div>
+<div><br></div>
+<div>   • “De fait, la création attend avec un ardent désir la révélation des fils de Dieu.”</div>
+<div>      — Romains 8:19 [S21]</div>
+<div><br></div>
+<div>   • “Qui accusera ceux que Dieu a choisis? C'est Dieu qui les déclare justes!”</div>
+<div>      — Romains 8:33 [S21]</div>
+<div><br></div>
+<div>   • “Qui les condamnera? [Jésus-]Christ est mort, bien plus, il est ressuscité, il est à la droite de Dieu et il intercède pour nous!”</div>
+<div>      — Romains 8:34 [S21]</div>
+<div><br></div>
+<div>   • “En effet, j'ai l'assurance que ni la mort ni la vie, ni les anges ni les dominations, ni le présent ni l'avenir, ni les puissances, ni la hauteur, ni la profondeur, ni aucune autre créature ne pourra nous séparer de l'amour de Dieu manifesté en Jésus-Christ notre Seigneur.”</div>
+<div>      — Romains 8:38-39 [S21]</div>
+<div><br></div>
+<div>   • “Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte et prie ton Père qui est dans le lieu secret ; et ton Père, qui voit dans le secret, te le rendra.”</div>
+<div>      — Matthieu 6:6 [S21]</div>
+<div><br></div>
+<div>   • “Ils nous ont seulement recommandé de nous souvenir des pauvres, ce que j'ai eu bien soin de faire.”</div>
+<div>      — Galates 2:10 [S21]</div>
+<div><br></div>
+<div>   • “Béni soit l'Eternel Dieu, le Dieu d'Israël, qui seul fait des merveilles! Que son nom glorieux soit béni éternellement, que toute la terre soit remplie de sa gloire! Amen! Amen!”</div>
+<div>      — Psaumes 72:18-19 [S21]</div>
+<div><br></div>
+<div>   • “Psaume d'Asaph. Oui, Dieu est bon pour Israël, pour ceux qui ont le cœur pur.”</div>
+<div>      — Psaumes 73:1 [S21]</div>
+<div><br></div>
+<div>   • “Quand j'ai réfléchi pour comprendre cela, la difficulté a été grande à mes yeux,”</div>
+<div>      — Psaumes 73:16 [S21]</div>
+<div><br></div>
+<div>   • “Cependant je suis toujours avec toi: tu m'as empoigné la main droite,”</div>
+<div>      — Psaumes 73:23 [S21]</div>
+<div><br></div>
+<div>   • “Mon corps et mon cœur peuvent s'épuiser, Dieu sera toujours le rocher de mon cœur et ma bonne part.”</div>
+<div>      — Psaumes 73:26 [S21]</div>
+<div><br></div>
+<div>   • “Pour moi, mon bonheur, c'est de m'approcher de Dieu. […] ”</div>
+<div>      — Psaumes 73:28a [S21]</div>
+<div><br></div>
+<div>   • “[…] Je place mon refuge en toi, Seigneur, Eternel, afin de raconter tout ce que tu fais.”</div>
+<div>      — Psaumes 73:28b [S21]</div>
+<div><br></div>
+<div>   • “Déchargez-vous sur lui de tous vos soucis, car lui-même prend soin de vous.”</div>
+<div>      — 1 Pierre 5:7 [S21]</div>
+<div><br></div>
+<div>   • “Que le Dieu de la paix vous conduise lui-même à une sainteté totale et que tout votre être, l'esprit, l'âme et le corps, soit conservé irréprochable lors du retour de notre Seigneur Jésus-Christ!”</div>
+<div>      — 1 Thessaloniciens 5:23 [S21]</div>
+<div><br></div>
+<div>   • “C'est pour la liberté que Christ nous a affranchis. Tenez donc ferme dans cette liberté et ne vous placez pas de nouveau sous la contrainte d'un esclavage.”</div>
+<div>      — Galates 5:1 [S21]</div>
+<div><br></div>
+<div>   • “Nous te louons, ô Dieu, nous te louons. Ton nom est dans nos bouches, nous proclamons tes merveilles.”</div>
+<div>      — Psaumes 75:2 [S21]</div>
+<div><br></div>
+<div>   • “Il restaure mon âme, Il me conduit dans les sentiers de la justice, A cause de son nom.”</div>
+<div>      — Psaumes 23:3 [LSG]</div>
+<div><br></div>
+<div>   • “Il restaure mon âme, […] ”</div>
+<div>      — Psaumes 23:3a [LSG]</div>
+<div><br></div>
+<div>«En effet, le Fils de l'homme est venu chercher et sauver ce qui était perdu.»»</div>
+<div>‭‭Luc‬ ‭19‬:‭10‬ ‭S21‬‬</div>
+
